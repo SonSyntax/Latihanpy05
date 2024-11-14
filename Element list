@@ -1,0 +1,26 @@
+list = [34, 56, 76, 38, 10] #Buat sebuah list sebanyak 5 elemen dengan nilai bebas
+
+# Akses List
+list = [34, 56, 76, 38, 10] #Nilai 5 Element
+print(list [2]) # tampilkan elemen ke 3
+print(list [1:4]) # ambil nilai elemen ke 2 sampai elemen ke 4
+print(list [-1]) # ambil elemen terakhir
+
+# Ubah element list
+list = [34, 56, 76, 38, 10]
+list [3] = 80 # ubah elemen ke 4 dengan nilai lainnya
+print(list)
+list [3] = list [-1] # ubah elemen ke 4 sampai dengan elemen terakhir
+print(list)
+
+#Tambah element list
+list = [34, 56, 76, 38, 10]
+
+list_a = [34, 56, 76]
+list_b = [38, 10]
+list_b.append("monster")
+print(list_b)
+list_b.extend([1, 37, 9])
+print(list_b)
+list_a.extend(list_b)
+print(list_a)
