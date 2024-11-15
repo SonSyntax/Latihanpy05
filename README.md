@@ -225,12 +225,15 @@ def main():
 menaruh fungsi `Main()` kedalam def guna mengaktifkan fungsi" def diatas, dengan proses yang ditentukan
 
 <p>berikut hasil program tersebut</p>
+
 ![hasil soal2](https://github.com/user-attachments/assets/5ac03298-3ca9-4b6a-af7d-2d5b9bc6494f)
 
 <p>Eksekusi program tersebut</p>
+
 ![eksekusi 2](https://github.com/user-attachments/assets/7bb6caef-1293-48da-9b7d-5939e55c0adc)
 
 <p>dan berikut Flowchartnya</p>
+
 ![flochart list](https://github.com/user-attachments/assets/19cb9c77-f6e8-427f-bbd7-87d9d0ef6b6f)
 
 
