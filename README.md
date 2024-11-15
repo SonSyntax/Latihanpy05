@@ -1,3 +1,8 @@
+<P>NAMA : MOHAMAD SONY HIDAYATULLAH</P>
+<p>NIM : 312410290</p>
+<P>KELAS : TI 24 A 4</P>
+<p>MATKUL : BAHASA PEMROGRAMAN</p>
+
 # Praktikum 4
 ## List dan tuple
 List dan tuple adalah tipe data dalam Python yang berfungsi untuk menampung sekumpulan data.
